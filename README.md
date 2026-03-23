@@ -9,11 +9,11 @@ This repository contains a time series forecasting project developed as part of 
 
 Below is a graph illustrating the time series.
 
-![preview](images/Captura de tela 2026-03-23 194441.png)
+![preview](images/usbirthsgraph.png)
 
 Below is a graph comparing the errors observed on each forecasting model's results, according to the RMSE metric.
 
-![preview](images/Captura de tela 2026-03-23 194453.png)
+![preview](images/tsfgraph.png)
 
 **HOW TO RUN**
 
