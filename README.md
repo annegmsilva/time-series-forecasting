@@ -21,4 +21,5 @@ Below is a graph comparing the errors observed on each forecasting model's resul
 2. Run all cells
 
 **AUTHOR**
+
 Anne Grazieli Marques Silva, Computer Science student at UFCG
